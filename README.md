@@ -6,4 +6,4 @@ From what i can gather, it was first published in 09/1994 on a BBS called ZOMB's
 
 I can't get the cross assembler to work for the time being, maybe DOS BOX would do the trick.. but i can't be bothered :) 
 
-for obvious reasons, i cannot include the binary music data.
+For obvious reasons, i cannot include the binary music data.
